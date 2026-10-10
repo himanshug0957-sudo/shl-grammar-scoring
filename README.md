@@ -19,8 +19,8 @@ Predicts a grammar score (0-5) from a 45-60 s spoken-English audio clip (.wav).
 ## How to run
 1. Open `SHL_Grammar_Scoring_FINAL.ipynb` on Kaggle (GPU T4, Internet On, challenge data attached).
 2. Run All. First run takes about 1-1.5 hours (Whisper transcription); later runs use caches.
-3. `submission.csv` (columns `filename,label`) is written at the end.
+
 
 ## Files
 - `SHL_Grammar_Scoring_FINAL.ipynb` - full pipeline
-- `submission.csv` - final predictions
+
