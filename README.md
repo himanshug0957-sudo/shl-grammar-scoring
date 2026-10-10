@@ -22,5 +22,5 @@ Predicts a grammar score (0-5) from a 45-60 s spoken-English audio clip (.wav).
 
 
 ## Files
-- `SHL_Grammar_Scoring_FINAL.ipynb` - full pipeline
+- `SHL_Grammar_Scoring.ipynb` - full pipeline
 
